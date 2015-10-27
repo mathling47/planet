@@ -1,3 +1,4 @@
 mars is a planet
 is there water on mars
+we can't reach water traces as of now
 
